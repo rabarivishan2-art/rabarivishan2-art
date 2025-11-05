@@ -2,6 +2,8 @@
 <h3 align="center">i'm A learner from India</h3>
 <p><img src='https://komarev.com/ghpvc/?username=rabarivishan2-art&label=Profile%20views&color=0e75b6&style=flat'/></p>
 
+- 💻 I'm currently learning ****Java Script****
+
 - 🔭 I’m currently working on ****C Language****
 
 - 👨‍💻 All of my projects are available at [https://github.com/rabarivishan2-art](https://github.com/rabarivishan2-art)
