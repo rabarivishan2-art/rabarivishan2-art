@@ -9,6 +9,8 @@
 
 - 👨‍💻 All of my projects are available at [[https://github.com/rabarivishan2-art]([https://github.com/rabarivishan2-art](https://github.com/rabarivishan2-art?tab=repositories))](https://github.com/rabarivishan2-art?tab=repositories)
 
+- I'm on linkeedin https://www.linkedin.com/in/vishan-rabari-7634ab392?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
 - 💬 Ask me about ****C Language****
 
 - 📫 How to reach me **rabarivishan2@gmail.com**
