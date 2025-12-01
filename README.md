@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Vishan Rabari</h1>
-<h3 align="center">i'm A learner from India</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 <p><img src='https://komarev.com/ghpvc/?username=rabarivishan2-art&label=Profile%20views&color=0e75b6&style=flat'/></p>
 
-- 💻 I'm currently learning ****Java Script****
+- 💻 I'm currently learning ****My profile page****[http://127.0.0.1:5500/Neoprofile/file.html]
 
 - 🔭 I’m currently working on ****C Language****
 
@@ -16,7 +16,10 @@
 
 - 📫 How to reach me **rabarivishan2@gmail.com**
 
+
 - 📄 Know about my experiences [i'm learner](i'm learner)
+- 
+- ⚡ Fun fact: I have good friend.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
