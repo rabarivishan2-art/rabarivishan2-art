@@ -37,7 +37,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working My profile page<br><br>- 📚 I'm currently learning Javascript<br><br>-📫 How to reach me rabarivishan2@gmail.com<br><br>-📄 Know about my experiences I'm learner<br><br>💬 Ask me about C Language<br><br>- ⚡ Fun fact : I hava good friends</p>
+<p align="left">I'm from India<br><br>- 🔭 I’m working My profile page<br><br>- 📚 I'm currently learning Javascript<br><br>-📫 How to reach me rabarivishan2@gmail.com<br><br>-📄 Know about my experiences I'm learner<br><br>💬 Ask me about C Language<br><br>- ⚡ Fun fact : I hava good friends</p>
 
 ###
 
