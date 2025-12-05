@@ -3,9 +3,9 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <p><img src='https://komarev.com/ghpvc/?username=rabarivishan2-art&label=Profile%20views&color=0e75b6&style=flat'/></p>
 
-- 💻 I'm currently learning ****My profile page****[http://127.0.0.1:5500/Neoprofile/file.html]
+- 💻 I'm currently work ****My profile page****[http://127.0.0.1:5500/Neoprofile/file.html]
 
-- 🔭 I’m currently working on ****C Language****
+- 🔭 I’m currently working on ****Java Script****
 
 - 👨‍💻 All of my projects are available at [[https://github.com/rabarivishan2-art]([https://github.com/rabarivishan2-art](https://github.com/rabarivishan2-art?tab=repositories))](https://github.com/rabarivishan2-art?tab=repositories)
 
