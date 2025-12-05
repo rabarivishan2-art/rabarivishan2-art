@@ -1,31 +1,82 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=74&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
+</div>
 
-<h1 align="center">Hi 👋, I'm Vishan Rabari</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+###
+
+<h1 align="center">Hey 👋 I'm Vishan</h1>
+
+###
+
+###
+
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanFpem1qamEwazh0YWJtN2VmZDA3aXNyYXJ0MGg1d2ppemhrMnZiMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1C8bHHJturSx2/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/vishan-rabari-7634ab392?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/thevishandeveloper7?igsh=a3dpaXBiaDFzMGh5" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  <a href="rabarivishan2@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=#FF4B14&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
+
 <p><img src='https://komarev.com/ghpvc/?username=rabarivishan2-art&label=Profile%20views&color=0e75b6&style=flat'/></p>
 
-- 💻 I'm currently work ****My profile page****[http://127.0.0.1:5500/Neoprofile/file.html]
+###
 
-- 🔭 I’m currently working on ****Java Script****
+<h3 align="left">👩‍💻  About Me</h3>
 
-- 👨‍💻 All of my projects are available at [[https://github.com/rabarivishan2-art]([https://github.com/rabarivishan2-art](https://github.com/rabarivishan2-art?tab=repositories))](https://github.com/rabarivishan2-art?tab=repositories)
+###
 
--i am on linkedin this  is my profile link
-[https://www.linkedin.com/in/vishan-rabari-7634ab392?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
+<p align="left">I'm ... from ....<br><br>- 🔭 I’m working My profile page<br><br>- 📚 I'm currently learning Javascript<br><br>-📫 How to reach me rabarivishan2@gmail.com<br><br>-📄 Know about my experiences I'm learner<br><br>💬 Ask me about C Language<br><br>- ⚡ Fun fact : I hava good friends</p>
 
-- 💬 Ask me about ****C Language****
+###
 
-- 📫 How to reach me **rabarivishan2@gmail.com**
+<h3 align="left">🛠 Language and tools</h3>
 
-- 📄 Know about my experiences [i'm learner](i'm learner)
+###
 
-- ⚡ Fun fact: I have good friend.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/http://www.facebook.com/share/17cktzaw8u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="http://www.facebook.com/share/17cktzaw8u" height="30" width="40" /></a>
-<a href="https://instagram.com/http://www.instagram.com/thevishandeveloper7?igsh=a3dpaxbiadfzmgh5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="http://www.instagram.com/thevishandeveloper7?igsh=a3dpaxbiadfzmgh5" height="30" width="40" /></a>
-  
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <img src="[WhatsApp Image 2025-11-10](https://instasize.com/p/a14765bf5b8bec40da3c8810165b2533880886bc3ce0b0367df6d67bb8932afd)" alt="logo" width="40" height="40">  </a> </p>
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=rabarivishan2-art&locale=en&mode=weekly&theme=codeSTACKr&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rabarivishan2-art/rabarivishan2-art/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rabarivishan2-art/rabarivishan2-art/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rabarivishan2-art/rabarivishan2-art/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=25&fontAlign=50&fontAlignY=65&stroke=-&strokeWidth=0&descSize=10&descAlign=50&descAlignY=85&textBg=false&theme=onedark"  />
+</div>
+
+###
